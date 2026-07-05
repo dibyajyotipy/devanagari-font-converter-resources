@@ -21,3 +21,16 @@ legacy fonts. No install, no login, no limits.
 - Preeti ↔ Unicode
 - KrutiDev ↔ Mangal
 - KrutiDev ↔ Chanakya
+
+## Why Convert Legacy Fonts to Unicode?
+
+Legacy fonts like KrutiDev, DevLys, and Preeti store 
+Devanagari text as ASCII characters. Without the font 
+installed, text appears as random symbols. Unicode works 
+on every device without any font installation.
+
+## Common Use Cases
+- Government e-filing portals require Unicode
+- Hindi typing exam files (SSC, UPSSSC, CPCT)
+- Converting old Word documents to modern format
+- Nepali government portal submissions
